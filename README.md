@@ -92,7 +92,7 @@ To run this project, you'll need the following installed:
 ### 7.2 Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Sales_Analysis.git
+    git clone https://github.com/AjinkyaGY21/Sales_Analysis.git
     ```
 2. Navigate to the project folder:
     ```bash
